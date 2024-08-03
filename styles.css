@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Zain:wght@200;300;400;700;800;900&display=swap');
+
+.zain-extralight {
+    font-family: "Zain", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .zain-light {
+    font-family: "Zain", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .zain-regular {
+    font-family: "Zain", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .zain-bold {
+    font-family: "Zain", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .zain-extrabold {
+    font-family: "Zain", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .zain-black {
+    font-family: "Zain", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+
+body {
+    /* background-color: #121212; */
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(30,37,39,0.9931372207085959) 36%, rgba(1,11,13,1) 100%);
+    color: #ffffff;
+    font-weight: 700;
+    /* font-family: Arial, sans-serif; */
+    font-family: "Zain", sans-serif;
+}
+
+header {
+    /* background-color: #1e1e1e; */
+    background-image: url(images/cover2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.text-about {
+    color: #25b8f7;
+}
+
+.experience-with i {
+    color: #25b8f7;
+}
+.lead{
+    font-size: larger;
+}
+.projects .card {
+    background-color: #1e1e1e;
+    border: none;
+}
+
+.projects .card-title {
+    color: #ffffff;
+}
+
+.projects .btn {
+    background-color: #25b8f7;
+    border: none;
+}
+
+.timeline .timeline-item {
+    margin-bottom: 30px;
+}
+
+.timeline-item h3 {
+    color: #25b8f7;
+}
+
+.footer {
+    background-color: #1e1e1e;
+}
+
+.footer .form-control {
+    background-color: #333333;
+    border: none;
+    color: #ffffff;
+}
+
+.footer .btn {
+    background-color: #25b8f7;
+    border: none;
+}
+
+.avatar{
+    width: 20%;
+}
+.blog{
+    width: 50%;
+    height: 50%;
+
+}
